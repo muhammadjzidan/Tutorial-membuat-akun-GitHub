@@ -20,7 +20,7 @@ Langkah - Langkah :
 3. Jika sudah mengisi, teman teman langsung klik tombol Verfikasi dibawah
 ![Screenshot_2021-10-22-21-03-30-65](https://user-images.githubusercontent.com/92990909/138549334-0e96f670-de4c-4d2a-85d8-22ea98957781.jpg)
 
-4. Jika sudah, teman - teman diminta untuk memecahkan teta teki, sebagai verifikasi, dan nika sudah tampilan akan berubah seperti dibawah ini, terdapat centang yang menandakan verifikasi berhasil
+4. Jika sudah, teman - teman diminta untuk memecahkan teta teki, sebagai verifikasi, dan jika sudah tampilan akan berubah seperti dibawah ini, terdapat centang yang menandakan verifikasi berhasil
 ![Screenshot_2021-10-22-21-03-46-19](https://user-images.githubusercontent.com/92990909/138549340-f349889f-f355-4dd9-8fb4-59cdcdc7aef8.jpg)
 
 5. Lalu klik tombol Create Account yang berwarna hijau
