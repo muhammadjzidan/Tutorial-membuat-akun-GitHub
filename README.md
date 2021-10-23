@@ -27,7 +27,7 @@ Langkah - Langkah :
 ![Screenshot_2021-10-22-21-03-46-19](https://user-images.githubusercontent.com/92990909/138549368-fb63cd69-4d3f-473f-b223-7bdc5654a491.jpg)
 
 6. Setelah itu, teman - teman akan dikirimkan email yang berisikan code verifikasi dan masukkan pada kolom seperti yang dibawah ini
-![Screenshot_2021-10-22-21-03-46-19](https://user-images.githubusercontent.com/92990909/138549375-094a851f-da2b-4fa9-a192-df2a4788cf1b.jpg)
+![Screenshot_2021-10-22-21-04-07-35](https://user-images.githubusercontent.com/92990909/138549496-1d9b6f10-97db-412d-a824-12f8d7c42128.jpg)
 
 7. Jika sudah, teman - teman akan diarahkan pada tampilan initializing dan tunggu sampai proses selesai
 ![Screenshot_2021-10-22-21-04-39-52](https://user-images.githubusercontent.com/92990909/138549386-4e7a1ae0-957a-4401-ac69-76a9006abc62.jpg)
