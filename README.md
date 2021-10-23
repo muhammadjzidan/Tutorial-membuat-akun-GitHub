@@ -12,9 +12,10 @@ Langsung saja menuju langkah - langkah nya...
 Langkah - Langkah :
 
 1. Kunjungi situs github.com, klik tombol Sign Up
-
+![Screenshot_2021-10-22-21-19-00-90](https://user-images.githubusercontent.com/92990909/138548919-5a1e332a-be7d-4b53-bd34-7da40c154776.jpg)
 
 2. Masukkan Username,Email,dan Password yang akan digunakan untuk login github
+
 
 3. Jika sudah mengisi, teman teman langsung klik tombol Verfikasi dibawah
 
